@@ -1,7 +1,7 @@
 # Setting up Streamlit Python environment
 This repo is a reference for the following YouTube video. 
 
-Video will be piublished at a future date.
+Video will be published at a future date.
 
 ## Create Conda Python Environment
 
