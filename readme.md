@@ -1,7 +1,5 @@
 # Setting up Streamlit Python environment
-This repo is a reference for the following YouTube video. 
-
-Video will be published at a future date.
+This repo is a reference for the YouTube video -> [🚀 Quick Start: Set Up Your Streamlit Dev Environment in Under 5 Minutes!](https://youtu.be/n1FsfUIh0Qc)
 
 ## Create Conda Python Environment
 
